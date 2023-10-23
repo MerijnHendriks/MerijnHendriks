@@ -1,3 +1,3 @@
 ![image](./assets/img/banner.png)
 
-<a href='[[https://ko-fi.com/supportkofi](https://ko-fi.com/nohurry)](https://ko-fi.com/nohurry)' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+<a href='https://ko-fi.com/nohurry' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
